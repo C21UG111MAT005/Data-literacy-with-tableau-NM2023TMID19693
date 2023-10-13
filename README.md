@@ -1,1 +1,1 @@
-# Data-literacy-with-tableau-NM2023TMID19693
+# The tableau HR scorecard:Measuring Success in Talent Management NM2023TMID19693
